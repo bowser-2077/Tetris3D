@@ -5,6 +5,7 @@
 ### Windows :
 
   ```cd C:\path\to\tetris```  
+  
 Where you enter the path to the .py  
 
   ```python app.py```
