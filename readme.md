@@ -1,4 +1,4 @@
-# Tetris 3D Redame
+# Tetris 3D Readme
 
 # Installation
 
