@@ -18,7 +18,7 @@ class Tetris3D:
     def __init__(self):
         self.root = tk.Tk()
         self.root.title("Tetris 3D - Controleur")
-        self.root.geometry("500x400")
+        self.root.geometry("600x500")
         self.root.configure(bg="#2c3e50")
         
         self.joueurs = []
